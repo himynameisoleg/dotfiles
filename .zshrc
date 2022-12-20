@@ -74,9 +74,10 @@ plugins=(
   git
   npm
   extract
-  zsh-autosuggestions
-  vscde
+  vscode
   z
+  zsh-autosuggestions
+  zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh

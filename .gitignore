@@ -3,3 +3,6 @@
 !*.zshrc
 !*.vimrc
 !*.tmux.conf
+
+!install-script.sh
+
